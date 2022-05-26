@@ -12,7 +12,7 @@ export default function index() {
         setNumero('');
     }
     async function verificarMaior() {
-        const resp = await axios.post('', numeros);
+        const resp = await axios.post('http://localhost:5000/dia2/maiorNumero', numeros);
         setResposta(resp.data.maior);
 
     }

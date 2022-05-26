@@ -5,9 +5,6 @@ import Home from './pages/home'
 import Corprimaria from './pages/corprimaria'
 import Frequencia from './pages/frequencia'
 import Ingresso from './pages/ingresso'
-import Dobro from './pages/dobro'
-import Temperatura from './pages/temperatura'
-import Tabuada from './pages/tabuada'
 import Maiornumero from './pages/maiornumero'
 
 
